@@ -1,0 +1,7 @@
+{
+  "name": "HydroSense AI",
+  "description": "An AI-powered automated hydroponic farm platform for monitoring plant health, optimizing nutrients, and predicting yields using Maurice API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
